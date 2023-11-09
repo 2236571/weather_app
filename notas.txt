@@ -1,0 +1,4 @@
+https://api.openweathermap.org/data/2.5/weather?q={city}&appid=7f4e1f215318a7f36e30941027b1fd6d&units=metric&lang=es
+
+
+pip install python-dotenv
